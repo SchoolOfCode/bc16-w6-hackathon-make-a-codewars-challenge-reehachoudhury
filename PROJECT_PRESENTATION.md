@@ -42,4 +42,4 @@ What went well:
 
  What didnt go well:
   - Completing 300 points worth of katas, very time consuming. 
-  - trying not to make this too complex so I can reach my MVP
+  - Trying not to make this too complex so I can reach my MVP
