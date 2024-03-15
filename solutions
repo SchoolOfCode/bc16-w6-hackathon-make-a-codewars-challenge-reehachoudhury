@@ -1,0 +1,8 @@
+// Solutions: 
+
+/* export function calculateCMR(totalDeaths, midYearPopulation, numberOfYears) {
+  // Good luck!
+  let averageDeaths = totalDeaths/numberOfYears
+  let CMR = (averageDeaths / midYearPopulation) * 1000
+  return CMR
+} */

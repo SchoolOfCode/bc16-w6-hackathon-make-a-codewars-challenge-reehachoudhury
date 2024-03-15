@@ -49,7 +49,7 @@ export function transformLength(string) {
 
 ℹ️ The reason for leaving the function body empty is that you want the people solving your kata to write their own implementation from scratch. Your role is to provide the overall problem statement and function skeleton. The solving and coding is up to them! Leaving an incomplete skeleton function helps point them in the right direction without giving away a full working solution.
 
-### 🎫 Ticket 3 - Write your kata
+### 🎫 Ticket 3 - Write your kata ✅
 
 When drafting your test cases, consider the different inputs that could be passed to the solution function and any edge cases you want to account for. You could put into practice tools such as Equivalency Partitioning, Boundary Value Analysis, and Decision Tables if its useful. Think of test values that will thoroughly cover the expected functionality. The number of tests is up to you, but aim for sufficient coverage to validate correctness.
 
@@ -76,7 +76,7 @@ test("should return 1 for strings with an even length", () => {
 
 🎯 At this stage you should have a description of the problem in `main.js` and some tests in `main.test.js`.
 
-### 🎫 Ticket 4 - Check your tests
+### 🎫 Ticket 4 - Check your tests ✅
 
 To verify your tests, temporarily add a working implementation to the solution function in `main.js`. Check that the tests fail before implementation and pass when the function is coded correctly. This validates that your tests accurately check for both incorrect and correct solutions. Remember to remove the solution code afterwards before sharing the kata.
 

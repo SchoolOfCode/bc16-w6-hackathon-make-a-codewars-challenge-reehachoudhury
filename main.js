@@ -12,16 +12,17 @@
      - Mid-year population of 350
 
     Here is an examples!
-    Total deaths pre plague from 1661-4 equal to 102, therefore an average of 25.5 deaths per year. Assuming that birth and death rates up until the start of the plague kept the population constant at aproximately 350 people (i.e. assume mid-year population = 350),the CMR pre plague should equal 72.85714285714286.
+    
+    Total deaths pre plague from 1661-4 equal to 102, therefore an average of 25.5 deaths per year. 
+    
+    Assuming that birth and death rates up until the start of the plague kept the population constant at aproximately 350 people (i.e. assume mid-year population = 350),the CMR pre plague should equal 72.85714285714286.
 
 */
 
  export function calculateCMR(totalDeaths, midYearPopulation, numberOfYears) {
   // Good luck!
-  let averageDeaths = totalDeaths/numberOfYears
-  let CMR = (averageDeaths / midYearPopulation) * 1000
-  return CMR
+  
 }
 
-calculateCMR(102, 350, 4)
-calculateCMR(276, 350, 2)
+// calculateCMR(102, 350, 4)
+// calculateCMR(276, 350, 2)
