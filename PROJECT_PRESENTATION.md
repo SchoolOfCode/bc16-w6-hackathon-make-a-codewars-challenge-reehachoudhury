@@ -32,3 +32,14 @@ The Critic:
  - Not created a kata before
  - Own understanding of coding may be limited so reduced to doing a simple kata.
  - Use of TDD when I am usually a BDD
+
+ ## Reflection
+
+What went well:
+ - Had a great and supportive team, it was relaxed easy-going and created a great learning environment. 
+ - Enjoyed thinking about all the possible katas we could create but had to remember MVP. 
+ - Practicing TDD over BDD which was challenging at first but got the hang of it. 
+
+ What didnt go well:
+  - Completing 300 points worth of katas, very time consuming. 
+  - trying not to make this too complex so I can reach my MVP
