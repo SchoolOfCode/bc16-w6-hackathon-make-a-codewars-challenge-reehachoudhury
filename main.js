@@ -7,13 +7,20 @@
 
     CMR = (number of deaths per year / mid-year population) * 1000
 
-    Create a function where if inputted with Woods records will calculate CMR as an output. 
+    Create a function where if inputted with Woods records will calculate CMR during the plague as an output. 
+
+    Here is an examples!
+    Average deaths pre plague from 1661-4 equal roughly 25.5 deaths per year. Mid year population was roughly 350 people. the CMR pre plague should equal 72.86 (2 d.p).
+
+*/
+
+ export function calculateCMR(deathsPerYear, midYearPopulation) {
+  // Good luck!
+}
 
 
 
 
-
-const mortalityRateDifference (prePlagueDeaths, prePlague)
 
 // Calculate the relative risk 
 // RR =  incidence in exposed individuals / incidence in non-exposed indidviduals 

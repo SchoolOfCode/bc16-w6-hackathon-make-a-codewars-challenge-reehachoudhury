@@ -14,19 +14,19 @@ Here's a glimpse of what you'll be achieving by the end of this workshop:
 
 Time to dive into action! 🏊‍♂️ Here's what you'll be working on:
 
-### 🎫 Ticket 1 - Setup
+### 🎫 Ticket 1 - Setup ✅
 
-Install Vitest and optionally set up an NPM `test` script that conveniently runs your tests.
+Install Vitest and optionally set up an NPM `test` script that conveniently runs your tests. ✅
 
 You will be making one kata each, but you will be in development teams. The aim is to co-elevate each other. There are several ways you can and should look to help each other:
 
-- Brainstorming: Helping each make your ideas better, and giving feedback to each other to add different perspectives and improve the end product
+- Brainstorming: Helping each make your ideas better, and giving feedback to each other to add different perspectives and improve the end product 
 - Planning: You can help validate each others plans, and sense check in a team review the direction of your products
 - Check-ins: Regular team stand-ups / check-ins will help make sure you are building and making progress together
 - Support: You should aim to help each other overcome issues if one of your team is stuck and cannot Google their way out of it
 - Testing: You can act as a first line user test for each others katas. You might find it a good idea to book in regular checkpoints to demo to each other and get initial feedback in quick bursts, making sure you can build in and adapt to any useful feedback before official release of your katas
 
-### 🎫 Ticket 2 - Plan your kata
+### 🎫 Ticket 2 - Plan your kata ✅
 
 Attack this as you would any other problem - plan, plan, plan and use our agile approach to create steps that allow you to build MVPs and incrementally reach your stretch goals. Brainstorm options with a technique like Disney Ideation. Once you have a compelling challenge and story idea, start breaking it down. Think about the goals of your challenge, and the scenarios you could provide to test if people have reached those goals. Provide any examples or additional details that are necessary for someone taking on your kata to understand the problem, but don't give away so much that it removes the challenge. You want to strike a balance - not too vague but not spoon-feeding the solution either.
 
